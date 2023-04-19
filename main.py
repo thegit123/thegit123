@@ -10,8 +10,8 @@ class WebScraper:
     def __init__(self):
         # EDIT!
         self.game = "Blaze Crash"
-        self.token = os.getenv'5913184358:AAHTK3YP9jT_760QQOzxGM8_HdBP-J4zauk'
-        self.chat_id =os.getenv'-986351026'
+        self.token = '5913184358:AAHvl2rYtFLKW0MszqHQgAAKHRXP8Zm2wjA'
+        self.chat_id ='-986351026'
         self.url_API = 'http://api.mxvinvest.com:63000/blaze-crash'
         self.gales = 2
         self.link = '[Clique aqui!](blaze.com)'
